@@ -1,0 +1,15 @@
+Descrição do software:
+
+O presente sistema é um software para gerência de livrarias. Nosso intuito é facilitar a administração e a organização dos livros de uma livraria, 
+principalmente para aquelas de grande porte, cuja gerência manual se torna inviável. Sendo assim, o sistema contará com: 
+
+Cadastro de livros;
+Cadastro de autores; 
+Cadastro de editoras; 
+Cadastro de clientes;
+Cadastro de vendas;
+Relatórios diversos.
+
+Até o momento, não há sistemas relacionados.
+
+Nosso público alvo são os proprietários e colaboradores de grandes livrarias.
