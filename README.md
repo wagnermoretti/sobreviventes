@@ -13,7 +13,7 @@ HTML - Versão: 5.0
 CSS - Versão: 3.0
 ## Linguagens de Script
 PHP - Versão: 7.4.5
-# Servidor
+## Servidor
 Apache - Versão: 2.4.43
 ## Banco de Dados
 MariaDB - Versão: 10.4.11
