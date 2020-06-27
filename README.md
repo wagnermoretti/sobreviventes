@@ -7,13 +7,13 @@ Os Sobreviventes empresa de desenvolvimento de softwares ficará responsável pe
 
 # Tecnologias Utilizadas
 
-# linguagens De Marcação
+## linguagens De Marcação
 HTML - Versão: 5.0
-# linguagem de Folha de Estilo
+## linguagem de Folha de Estilo
 CSS - Versão: 3.0
-# Linguagens de Script
+## Linguagens de Script
 PHP - Versão: 7.4.5
 # Servidor
 Apache - Versão: 2.4.43
-# Banco de Dados
+## Banco de Dados
 MariaDB - Versão: 10.4.11
